@@ -10,7 +10,10 @@ For this particular example, we only need around 750-800 samples to guarantee a 
 
 This repo is an extension of the ideas presented in https://arxiv.org/abs/2009.10025 
 
-### Vowels, M.J. (in press) Misspecification and unreliable interpretations in psychology and social science. Psychological Methods.
+
+Vowels, M.J. (in press) Misspecification and unreliable interpretations in psychology and social science. Psychological Methods.
+
+
 
 ![alt text](https://github.com/matthewvowels1/type_1_error/blob/main/type_1_error_rate_misspecification.png)
 
